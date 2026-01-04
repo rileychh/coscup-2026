@@ -14,10 +14,10 @@ const { t } = useI18n()
 <i18n lang="yaml">
 en:
   main_page:
-    title: "Main page"
+    title: "Modified main page"
     about_link: "About page"
 zh:
   main_page:
-    title: "首頁"
+    title: "被改過的首頁"
     about_link: "關於我們"
 </i18n>
